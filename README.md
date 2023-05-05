@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+User is able to add items to cart, to change the amount of items here and get total price. 
+This project is done with React, TypeScript and with using of React-Router.
+Sign up page will be done later with registration page and DB will be added.
+
+![Снимок экрана 2023-05-05 164014](https://user-images.githubusercontent.com/111873795/236461052-7cc46c38-3771-4474-bee1-9e096ad57b87.jpg)
+
+![Снимок экрана 2023-05-05 163906](https://user-images.githubusercontent.com/111873795/236461167-5bbe5d1a-f949-47e9-8a1e-ed6902aad3eb.png)
+
+![Снимок экрана 2023-05-05 164051](https://user-images.githubusercontent.com/111873795/236461213-1fa80829-90c7-473f-a828-bc48c8aef615.jpg)
 
 ## Available Scripts
 
